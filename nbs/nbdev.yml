@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "paulinet"
+  site-url: "https://xrsrke.github.io/paulinet"
+  description: "Model the wave function ansatz using a neural network"
+  repo-branch: main
+  repo-url: "https://github.com/xrsrke/paulinet"
